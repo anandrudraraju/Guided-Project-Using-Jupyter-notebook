@@ -1,7 +1,7 @@
 # Guided-Project-Using-Jupyter-notebook
 
-Guided Project from Dataquest.io
-
-first project from Dataquest.io - 
+Guided Project 1 from Dataquest.io
 
 Getting to know the Jupyter software environment.
+
+Datases provided by FiveThirtyEight
